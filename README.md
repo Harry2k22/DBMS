@@ -43,9 +43,8 @@ https://github.com/Harry2k22/DBMS/blob/main/Exp%20no:2
 ![image](https://user-images.githubusercontent.com/113414803/192077427-f4d96997-6eed-4d11-9929-dd2eb870af49.png)
 
 ##exp.no.15
-https://user-images.githubusercontent.com/113407411/191548417-98f57aac-f3e7-49e9-af4a-dd2f15aee5ff.png![Uploading image.png…]()
 
-
+![image](https://user-images.githubusercontent.com/113414803/192077536-f73ef0ae-982f-4b9e-90c3-1d7e7f0dd8d7.png)
 
 
 
