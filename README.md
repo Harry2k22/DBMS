@@ -1,14 +1,18 @@
 ##exp.no.1
 (https://github.com/Harry2k22/DBMS/blob/main/Exp%20no:1)
 ![image](https://user-images.githubusercontent.com/113414803/191889891-e0218b24-af82-4b76-aef3-ecc3079f4e3c.png)
+
 ##exp2
 https://github.com/Harry2k22/DBMS/blob/main/Exp%20no:2
 ![image](https://user-images.githubusercontent.com/113414803/191890070-ec31aaea-3b2e-4f78-87b8-a88d9479921f.png)
+
 ##exp3(https://github.com/Harry2k22/DBMS/blob/main/Exp%20no:%203)
 ![image](https://user-images.githubusercontent.com/113414803/191890571-61caa010-6177-430b-ba59-fe82a61e7536.png)
+
 ##exp4
 (https://github.com/Harry2k22/DBMS/blob/main/Exp%20no:4)
 ![image](https://user-images.githubusercontent.com/113414803/191890628-76f758b6-26b5-498a-8583-77719b09b121.png)
+
 ##exp5
 (https://github.com/Harry2k22/DBMS/blob/main/Exp%20no%20:%205)
 ![image](https://user-images.githubusercontent.com/113414803/191891042-d75c4b3f-4a14-4691-93d8-1b36968733da.png)
@@ -16,6 +20,7 @@ https://github.com/Harry2k22/DBMS/blob/main/Exp%20no:2
 ![image](https://user-images.githubusercontent.com/113414803/191891080-da2d02af-daeb-48c1-a8c5-80a2a2f16ebc.png)
 ![image](https://user-images.githubusercontent.com/113414803/191891094-66f35aa0-9291-4715-8693-94ae413d4351.png)
 ![image](https://user-images.githubusercontent.com/113414803/191891114-838225f7-4ae3-4035-8327-d353716c2cc5.png)
+
 ##exp.no.6
 (https://github.com/Harry2k22/DBMS/blob/main/Exp%20no%20:%206)
 ![image](https://user-images.githubusercontent.com/113414803/191891958-5c73cd67-9045-4a2c-8dfa-24a500d8f668.png)
@@ -46,8 +51,18 @@ https://github.com/Harry2k22/DBMS/blob/main/Exp%20no:2
 
 ![image](https://user-images.githubusercontent.com/113414803/192077536-f73ef0ae-982f-4b9e-90c3-1d7e7f0dd8d7.png)
 
+##exp.no.16
+![image](https://user-images.githubusercontent.com/113414803/192077578-d9a9dd7b-1141-439a-ac11-2277a5cde1c8.png)
+![image](https://user-images.githubusercontent.com/113414803/192077582-f1f693f4-82cd-4a84-8c27-457cedbb0952.png)
 
+##exp.no.17
+![image](https://user-images.githubusercontent.com/113414803/192077594-cad1191e-8ec9-4476-b929-55099112161e.png)
 
+##exp.no.18
+![image](https://user-images.githubusercontent.com/113414803/192077611-91b96fa6-2e27-4bd9-a897-b955cd3a9b42.png)
 
+##exp.no.19
+![image](https://user-images.githubusercontent.com/113414803/192077622-d42ba6a2-fa8f-4f32-ab56-6e8040a994c0.png)
 
-
+##exp.no.20
+![image](https://user-images.githubusercontent.com/113414803/192077630-50eebaeb-61f8-46fd-8fbf-4b65dcea1359.png)
